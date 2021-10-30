@@ -28,6 +28,7 @@ hr {
     border-radius: 10px;
     margin: 5px;
     opacity: 0.7;
+    min-width: 150px;
 
 }
 .images img:hover {
@@ -35,7 +36,7 @@ hr {
 }
 .menu {
     background-color: #840092;
-    width: 170px;
+    min-width: 50px;
     height: 100%;
     border-radius: 15px;
     padding: 10px 20px;
@@ -58,6 +59,7 @@ color: #00E1E1;
 .member {
     padding: 8px;
     width: 30%;
+    min-width: 200px;
     display: inline-block;
     box-sizing: border-box;
 }
@@ -73,6 +75,7 @@ color: #00E1E1;
 }
 .tariff {
 width: 30%;
+min-width: 170px;
 padding: 0 8px;
 text-align: center;
 display: inline-block;
